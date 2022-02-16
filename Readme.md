@@ -1,6 +1,6 @@
-## Hey, this is vonlooten 👋
+## Hey, I am vonlooten 👋
 
-I am a Fullstack developer using Laravel, Nuxt, React or Typescript.
+I am a Fullstack developer using Laravel, Nuxt, React and Typescript.
 
 Some information about me:
 
