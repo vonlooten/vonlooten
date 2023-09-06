@@ -6,4 +6,4 @@
 
 *My public contributions:*
 
-![Vonlooten's GitHub stats](https://github-readme-stats.vercel.app/api?username=vonlooten&theme=merko)
+![Vonlooten's GitHub stats](https://github-readme-stats.vercel.app/api?username=vonlooten&theme=merko&rank_icon=github)
